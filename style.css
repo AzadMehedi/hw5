@@ -1,0 +1,28 @@
+*{
+	margin: 10PX;
+	padding: 2px;
+	background-color: lightblue;
+	
+}
+.title{
+	color: red;
+	text-align: center;
+	height: 50px;
+}
+.orderlist{
+	text-transform: uppercase;
+	width: 200px bold;
+	height: 50px;
+	color:blue;
+}
+.mentors{
+	color: rgba(237, 102, 92) ;
+	text-transform: uppercase;
+
+}
+ul li{
+	color: rgba(237, 75, 242);
+}
+ol li{
+	color: blue;
+}
